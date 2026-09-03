@@ -1,0 +1,173 @@
+---
+title: "Design Thinking"
+author: "Thiago Pires <br> --"
+title-slide-attributes:
+  data-background-image: cover.gif
+  data-background-position: cover
+format: 
+  revealjs:
+    theme: themes.scss
+    width: 1600
+    height: 900
+embed-resources: true
+---
+
+# Design Thinking
+
+> O Design Thinking é uma abordagem prática e centrada no ser humano para solucionar problemas complexos e gerar inovação. Em vez de partir direto para a resposta, ele foca em entender profundamente as necessidades, os desejos e as dores das pessoas envolvidas antes de criar qualquer produto, serviço ou processo.
+
+## Design Thinking
+
+Design Thinking tem duas funções.
+
+1. Expandir o conceito do design para abarcar desafios enfrentados pelos negócios e pela sociedade; mostrar como uma abordagem criativa e focada na resolução de problemas e no ser humano propicia a descoberta de soluções novas e mais eficazes.
+
+2. O design thinking extrapola as grandes habilidades do designer profissional treinado, sendo disponível para qualquer um que deseja dominar sua mentalidade e seus métodos. 
+
+## Inovação
+
+No meio empresarial, a inovação é o objetivo final do processo gerencial, sendo o resultado da introdução de algum elemento com certo grau de novidade capaz de criar um valor econômico.
+
+> Inovação é uma ideia criativa que atende as necessidades e expectativas dos clientes, que ao ser empreendida se torna comercialmente viável, sendo retorno a todos os stakeholders envolvidos no processo
+
+## Inovação
+
+Contudo inovação não consiste somente aos produtos e aos processos -- a inovação pode resultar na criação de novos mercados. Dois exemplos marcantes:
+
+- Amazon: Criou um mercado digital para o consumo de produtos físicos
+- Whatsapp: Mudou a maneira de como se presta serviço, mudou a maneira como compreendemos os serviços de telecomunicação
+
+*A inovação disruptiva pode até mesmo gerar novos mercados e setores, abrindo caminho para oportunidades que não haviam sido imaginadas*
+
+## Inovação
+
+1. Inovação de produto: incrementar ou modificar os atributos do produto (ex: carros elétricos)
+2. Inovação de processo: mudanças que não impactam diretamente o produto, mas que podem por exemplo ajudar na produtividade
+3. Inovação de posicionamento: inovar na forma como o produto é percebido pelo consumidor (A Red Bull criou uma categoria de bebida inteiramente novas com os energéticos)
+4. Inovação de paradigma: mudança no modelo de negócios (exemplo a IBM que mudou o modelo de empresa que vendia computadores e agora uma provedora de soluções empresariais. O Spotify seria um outro exemplo também)
+
+Os modelos tradicionais de inovação alocam grande parte do dinheiro, esforço na busca do entendimento do problema que precisa ser resolvido. O design thinking surge como uma resposta a esse modelo rígido pautado pela busca de resultados, propondo um modelo que equilibra a busca de soluções com o foco nos usuários dos produtos.
+
+## Exemplo Fusca
+
+Na década de 1930, Ferdinand Porsche recebeu a missão de criar um carro focado nas reais necessidades da população média. O design resultou em soluções diretamente pensadas para o usuário comum da época.
+
+Resfriamento a ar: Eliminava a necessidade de água e radiador, evitando o congelamento do motor no inverno rigoroso europeu.
+
+Mecânica simples: O carro foi concebido para que pessoas comuns pudessem fazer reparos básicos com poucas ferramentas. O motor era tão simples que podia ser retirado do veículo soltando-se apenas quatro parafusos principais.
+
+## Origem do termo *design thinking*
+
+A IDEO é uma empresa global de design e consultoria em inovação, famosa por popularizar o conceito de design thinking.
+
+- Foco principal: Criar produtos, serviços e experiências centrados nas necessidades humanas.
+- Metodologia: Utiliza equipes multidisciplinares, prototipagem rápida e experimentação criativa para resolver problemas complexos.
+- Projetos marcantes: Desenvolveu o primeiro mouse comercial da Apple, o computador portátil Palm V.
+
+## Exemplo Shimano
+
+- A Shimano é a líder global em componentes de alta performance para bicicletas, reconhecida por sua engenharia de ponta.
+- Em 2004, a empresa enfrentou uma forte estagnação no mercado norte-americano.
+  - 90% dos adultos americanos haviam deixado de pedalar. 
+  - A marca descobriu que a própria indústria afastava o consumidor comum.
+  - O ciclismo havia se tornado excessivamente complexo e intimidador, repleto de marchas confusas, cabos expostos, roupas técnicas, tudo focado apenas em atletas profissionais.
+
+## Exemplo Shimano
+
+- A Shimano não nos passou uma lista de especificações técnicas e projetar um monte de peças.
+- Na fase inicial, reunimos uma equipe interdisciplinar de designers, cientistas comportamentais, publicitários e engenheiros para identificar as restrições do projeto.
+- Com uma exploração centrada no ser humano, procuraram saber a opinião de fanáticos por ciclismo, mas também, e o principal, de pessoas que não pertenciam à base de clientes essencial da empresa. Isso levou à descoberta de que uma nova categoria de ciclismo poderia reconectar os consumidores norte-americanos e suas experiências de infância. Um enorme mercado inexplorado começou a tomar forma. Pessoas, que não eram esportistas, e que tinham somente o prazer de pedalar.
+
+## Restrições
+
+O primeiro estágio do processo de design costuma se referir à identificação das restrições mais importantes e à definição de critérios para sua avaliação.
+- Praticabilidade: o que é funcionalmente possível num futuro próximo;
+- Viabilidade: o que provavelmente se tornará parte de um modelo de negócios sustentável;
+- Desejabilidade: o que faz sentido para as pessoas.
+
+O Nintendo Wii foi um exemplo de produto que conseguiu o equilíbrio entre estes critérios. A nova tecnologia de controle de gestos, trouxe o foco para uma tecnologia imersiva, reduzindo foco na resolução de gráficos (tornaria mais caro o produto). Criou uma experiência envolvente para o usuário e gerou enormes lucros.
+
+## Restrições
+
+- A criatividade surge ao transpor algumas destas restrições.
+- Contudo, muitas empresas priorizarão a restrição que se adequará ao contexto de modelo de negocio existente
+- Pelo fato de os sistemas de negócio serem elaborados visando a eficiência, novas ideias tenderão a ser incrementais, previsíveis e e fáceis de serem copiadas pela concorrência. Isso explica a uniformidade de tantos produtos no mercado no mercado
+- Hoje em dia, as empresas restringem suas iniciativas de inovação a ideias que tenham um potencial de negócios de curto prazo
+
+# Princípios
+
+> Orientam o seu trabalho diário mantendo seu usuário em mente, colaborando com uma equipe multidisciplinar e buscando continuamente melhorar as suas soluções.
+
+# Um foco nos resultados dos usuários
+
+> Impulsiona os negócios ajudando os usuários a alcançar seus objetivos
+
+## "Converter necessidade em demanda"
+
+Esta frase de Peter Drucker parece que descreve de forma simples o trabalho de um designer. Mas se fosse tão fácil deveríamos ter muito mais histórias de sucesso no desenvolvimento de produtos.
+
+Por que é tão difícil identificar uma necessidade e elaborar uma solução?
+
+## Pessoas se adaptam a situações inconvenientes
+
+> Se eu perguntasse a meus clientes o que eles queriam, teriam respondido 'um cavalo mais rápido'
+
+\
+
+- Penduram roupas na maçaneta
+- Organizam fios com fecho de pão
+
+Nossa meta deve ser em ajudar as pessoas a articularem as necessidades latentes que podem nem saber que tem; esse é o desafio do design thinking.
+
+# Insight, observação e empatia
+
+## Insight: aprendendo com a vida alheia
+
+> As pessoas que consomem nossos produtos, os clientes de nossos serviços, os ocupantes de nossos prédios ou usuários de nossas interfaces raramente nos dirão o que fazer. Contudo, o seu comportamento nos dá dicas úteis de suas necessidades não atendidas.
+
+## Observação: vendo o que as pessoas não fazem, escutando o que não dizem
+
+\
+
+A empresa Zyliss contratou uma consultoria para projetar uma linha de utensílios de cozinha, a equipe começou estudando crianças e chefs profissionais -- dois grupos que não constituíam seu mercado-alvo. Contudo ambos os grupos geraram insights úteis.
+- Uma menina de 7 anos lutando para usar um abridor de latas iluminava questões de controle físico que outras pessoas disfarçariam.
+- A maneira que os chefs utilizavam os utensílios levaram a outros insights
+
+## Observação
+
+\
+
+*Por que um fabricante de chips do Vale do Silício patrocinaria cientistas sociais para estudar pessoas e práticas no Leste Europeu ou na África Ocidental? Porque hoje quase metade população mundial tem acesso à internet.*
+
+\
+
+A Intel sabe que precisará estar pronta quando os próximos 50%  entrarem no ambiente online.
+
+## Observação em outros contextos
+
+\
+
+No decorrer de um projeto para agilizar o atendimento em prontos-socorros, conduzindo com o Institute for Healthcare Improvement e a Robert Wood Johnson Foundation, um membro do grupo do IHI comentou sobre a experiência nas 500 milhas de Indianapolis:
+
+> Um carro de corrida soltando fumaça parou em um pit stop onde uma equipe de profissionais treinados com equipamentos de última geração já estavam de prontidão, avaliou a situação e realizou todos os reparos necessários em questão de segundos. Bastas alterar algumas palavras e você terá uma descrição exata do pronto-socorro de um hospital.
+
+## Empatia: na pele dos outros
+
+\
+
+> A missão do design thinking é traduzir observações em insights, e, estes insights, em produtos e serviços para melhorar a vida das pessoas.
+
+- A empatia deve nos levar a pensar nas pessoas como pessoas, e não como ratos de laboratório.
+- Se formos "tomar emprestada" a vida dos outros para inspirar novas ideias, precisamos reconhecer que os comportamentos aparentemente inexplicáveis representam diferentes estratégias para lidar com o mundo confuso, complexo e contraditório que vivemos.
+
+
+## Empatia
+
+\
+
+O mouse de computador, desenvolvido na Xerox PARC, nos anos 1970, era um intrincado aparato técnico inventado por engenheiros para ser utilizado por engenheiros. Para eles, fazia todo sentido desmontar o mouse e limpá-lo no fim do dia.
+
+\
+
+Quando a Apple Computer trabalhou no desenvolvimento do computador eles tinham em mente que precisavam criar um computador "para as pessoas comuns".
+
