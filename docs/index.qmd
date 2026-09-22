@@ -107,12 +107,29 @@ O primeiro estágio do processo de design costuma se referir à identificação 
 
 ## Nintendo Wii {background-image="images/wii.png" background-position="110% 70%" background-size="50%"}
 
-
 ::: columns
 ::: {.column width=55%}
 O Nintendo Wii foi um exemplo de produto que conseguiu o equilíbrio entre estes critérios. A nova tecnologia de controle de gestos, trouxe o foco para uma tecnologia imersiva, reduzindo foco na resolução de gráficos (tornaria mais caro o produto). Criou uma experiência envolvente para o usuário e gerou enormes lucros.
 :::
 ::: {.column width=45%}
+:::
+:::
+
+## Google Glass vs Óculos Meta/Ray-ban {background-image="images/google-glass.jpeg" background-position="115% 20%" background-size="41%"}
+
+\
+
+::: columns
+::: {.column width=70%}
+| Critério | Google Glass (2013) | Óculos Meta / Ray-Ban (Atual) |
+| :--- | :--- | :--- |
+| **Aparência e Estilo** | Design futurista e chamativo; parecia um aparelho médico. | Visual de óculos de sol comum (modelos clássicos da Ray-Ban). |
+| **Aceitação Social** | Gerava desconfiança e gerou o apelido pejorativo de *"glassholes"*. | Mais aceito em uma sociedade já habituada a câmeras e criadores de conteúdo. |
+| **Privacidade** | Luz de gravação quase imperceptível; banido de vários locais. | LED indicador visível que avisa claramente quando está gravando. |
+| **Foco de Uso** | Tentava ser um minicomputador na tela; funções confusas. | Focado em fotos/vídeos rápidos, áudio discreto e comandos de Inteligência Artificial. |
+| **Preço de Lançamento** | Muito caro e restrito (**US$ 1.500**). | Acessível para a categoria premium (a partir de **US$ 299**). |
+:::
+::: {.column width=30%}
 :::
 :::
 
@@ -131,7 +148,7 @@ O Nintendo Wii foi um exemplo de produto que conseguiu o equilíbrio entre estes
 
 > Impulsiona os negócios ajudando os usuários a alcançar seus objetivos
 
-## "Converter necessidade <br> em demanda" {background-image="images/peter-drucker.jpg" background-position="130% 30%" background-size="60%"}
+## "Converter necessidade <br> em demanda" {background-image="images/peter-drucker.jpg" background-position="140% 30%" background-size="60%"}
 
 ::: columns
 ::: {.column width=55%}
