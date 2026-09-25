@@ -183,7 +183,11 @@ Nossa meta deve ser em ajudar as pessoas a articularem as necessidades latentes 
 
 ## Insight: aprendendo com a vida alheia
 
-> As pessoas que consomem nossos produtos, os clientes de nossos serviços, os ocupantes de nossos prédios ou usuários de nossas interfaces raramente nos dirão o que fazer. Contudo, o seu comportamento nos dá dicas úteis de suas necessidades não atendidas.
+> *Insights (plural de insight, do inglês) significa a compreensão repentina, profunda e clara de uma situação, problema ou comportamento. É o famoso momento de "estalo" ou "lâmpada acesa na cabeça", quando uma solução ou verdade oculta se revela de forma intuitiva.*
+
+\
+
+As pessoas que consomem nossos produtos, os clientes de nossos serviços, os ocupantes de nossos prédios ou usuários de nossas interfaces raramente nos dirão o que fazer. Contudo, o seu comportamento nos dá dicas úteis de suas necessidades não atendidas.
 
 ## Observação: vendo o que as pessoas não fazem, escutando o que não dizem
 
@@ -242,3 +246,89 @@ Quando a Apple Computer trabalhou no desenvolvimento do computador eles tinham e
 :::
 :::
 
+# Equipes diversas
+
+> Os desafios de hoje são complexos e em camadas; resolvê-los exige mais do que esforço individual. É preciso a força combinada de uma equipe bem estruturada.
+
+## Quebre os silos^[Curso do Skillbuild: Profissional em Design Thinking Empresarial]
+
+Negócios empresariais operam em domínios complexos com amplas redes de usuários, partes interessadas, tecnologias e contextos. O valor de perspectivas diversas torna-se ainda maior à medida que o espaço do problema se torna mais complexo. Se você trabalha em silos, ou seja, completamente separado de outras funções, uma única perspectiva limitará o resultado do seu trabalho. A colaboração entre funções ajuda a assegurar resultados mais robustos e bem equilibrados.
+
+\
+
+*[Colaboração]{.blue} é o processo de trabalhar coletivamente em direção a um objetivo compartilhado, mantendo a mente aberta às ideias dos outros.*
+
+
+## Efeito multiplicador das equipes
+
+\
+
+::: columns
+::: {.column width=33%}
+[Equipes diversas]{.blue} têm perspectivas, habilidades e origens variadas. Elas desenvolvem com base nas ideias uns dos outros, enriquecem o conhecimento uns dos outros e desafiam as suposições uns dos outros de maneiras que aceleram o trabalho.
+:::
+::: {.column width=33%}
+[Equipes capacitadas]{.blue} têm a autonomia para tomar decisões operacionais cotidianas por conta própria. Elas estão equipadas com o conhecimento e a autoridade para entregar resultados.
+:::
+::: {.column width=33%}
+*Quando as equipes são [diversas e capacitadas]{.blue}, elas não apenas geram ideias, mas as transformam em resultados reais, de forma mais rápida e eficaz.*
+:::
+:::
+
+## Como divergir e convergir com sua equipe
+
+\
+
+Ao criar ideias, é benéfico alternar entre dois modos de pensar: [divergir]{.blue} e [convergir]{.blue}. Esses modos ajudam sua equipe a equilibrar criatividade com clareza.
+
+\
+
+::: columns
+::: {.column}
+Primeiramente, os membros da equipe [divergem]{.blue} ao fazer uma tempestade de ideias livremente, sem julgamento:
+
+- Crie suas ideias por conta própria
+- Vá além do óbvio e concentre-se na quantidade em vez da qualidade
+:::
+::: {.column}
+Em seguida, os membros da equipe [convergem]{.blue}, reunindo-se para agrupar e aprimorar suas ideias:
+
+- Crie com base nas ideias uns dos outros
+- Chegue a um alinhamento sobre o caminho a seguir
+:::
+:::
+
+# Inovação incansável
+
+## Inovação incansável
+
+Grandes equipes refinam e aprimoram continuamente suas soluções. Essa é a ideia que sustenta a inovação, um dos princípios-chave do Design Thinking Empresarial. [A inovação incansável significa continuar aprimorando seu trabalho, para que ele permaneça útil e importante para as pessoas que o utilizam.]{.mark}
+
+\
+
+*A inovação incansável trata-se de perceber o que está mudando e estar pronto para experimentar coisas novas. Toda solução funciona por um certo período, mas os tempos mudam, então suas ideias também deveriam.*
+
+## Inovação incansável
+
+\
+
+>Inovação incansável é um princípio do Design Thinking Empresarial que representa o teste e aprendizado ativos e contínuos para melhorar a solução de um problema.
+
+## Tudo como protótipo 
+
+\
+
+Se você começar a encarar tudo o que faz como um trabalho em andamento, pode começar a mudar sua mentalidade de esperar até que algo esteja perfeito para esperar até que esteja pronto. [Este modo de trabalho permite uma entrega mais regular de valor aos usuários.]{.mark}
+
+## Dê forma às ideias
+
+\
+
+::: columns
+::: {.column}
+Tudo começa como uma ideia, mas você não pode aprender muito sobre uma ideia sem dar a ela alguma forma. [Visualize suas ideias para que sua equipe e seus usuários possam entendê-las claramente.]{.mark} Criar não precisa ser complexo. *Um simples desenho ou esboço pode ser suficiente para comunicar a sua ideia, permitindo que outros a entendam e forneçam feedback*.
+:::
+::: {.column}
+Tire a pressão de si mesmo. [A melhor maneira de descobrir se uma ideia atende às necessidades das pessoas é criar algo rapidamente e compartilhá-lo.]{.mark} Se não estiver totalmente correto, você pode jogar o pedaço de papel em uma lixeira de reciclagem, melhorá-lo ou tentar uma nova abordagem. Isso torna mais simples, mais econômico e mais rápido desafiar o status quo com novas ideias e iterar nelas até que estejam preparadas para o mundo real. Dessa forma, você consegue atender às expectativas dos seus usuários e aos prazos do seu mercado.
+:::
+:::
